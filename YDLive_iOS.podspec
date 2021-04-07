@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
 
     s.name         = "YDLive_iOS"
-    s.summary      = "A short description of YDLive_iOS."
+    s.summary      = "YDLive SDK for iOS."
   
     s.homepage     = "https://github.com/yunduoketang/YDLive_iOS.git"
   
     s.license      = "MIT"
   
     s.author             = { "yunduoketang" => "tstan@tencent.com" }
-    s.version = "1.0.0-beta1"
+    s.version = "1.0.0-beta2"
     s.platform     = :ios
     s.platform     = :ios, "9.0"
   

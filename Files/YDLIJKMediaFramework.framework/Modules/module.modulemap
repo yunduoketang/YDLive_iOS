@@ -1,0 +1,6 @@
+framework module YDLIJKMediaFramework {
+  umbrella header "YDLIJKMediaFramework.h"
+
+  export *
+  module * { export * }
+}

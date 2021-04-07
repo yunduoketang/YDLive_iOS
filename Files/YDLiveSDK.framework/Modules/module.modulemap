@@ -1,0 +1,6 @@
+framework module YDLiveSDK {
+  umbrella header "YDLiveSDK.h"
+
+  export *
+  module * { export * }
+}

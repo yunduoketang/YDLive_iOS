@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license      = "MIT"
   
     s.author             = { "yunduoketang" => "tstan@tencent.com" }
-    s.version = "1.0.0-beta3"
+    s.version = "1.0.0-beta4"
     s.platform     = :ios
     s.platform     = :ios, "9.0"
   
@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
    s.source_files  =  "Files/YDLiveSDK.framework/Headers/*.h", "Files/YDLIJKMediaFramework.framework/Headers/*.h"
     # s.exclude_files = "Classes/Exclude"
   
-    s.public_header_files = "Files/YDLiveSDK.framework/Headers/*.h", "Files/YDLIJKMediaFramework.framework/Headers/*.h"
+    s.public_header_files = "Files/YDLiveSDK.framework/Headers/*.h"
   
     s.resources = "Files/YDLiveAuthMessage.plist"
 
-    s.vendored_frameworks = "Files/YDLiveSDK.framework", "Files/YDLIJKMediaFramework.framework"
+    s.vendored_frameworks = "Files/YDLiveSDK.framework"
   
     s.requires_arc = true
   

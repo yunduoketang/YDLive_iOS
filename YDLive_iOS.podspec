@@ -14,14 +14,14 @@ Pod::Spec.new do |s|
   
     s.source       = { :git => "https://github.com/yunduoketang/YDLive_iOS.git", :tag => "#{s.version}" }
   
-   s.source_files  =  "Files/YDLiveSDK.framework/Headers/*.h", "Files/YDLIJKMediaFramework.framework/Headers/*.h"
+   s.source_files  =  "Files/YDLiveSDK.framework/Headers/*.h"
     # s.exclude_files = "Classes/Exclude"
   
     s.public_header_files = "Files/YDLiveSDK.framework/Headers/*.h"
   
     s.resources = "Files/YDLiveAuthMessage.plist"
 
-    s.vendored_frameworks = "Files/YDLiveSDK.framework"
+    s.vendored_frameworks = "Files/YDLiveSDK.framework", "Files/YDLIJKMediaFramework.framework"
   
     s.requires_arc = true
   

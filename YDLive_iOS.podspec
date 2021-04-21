@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
   
     s.license      = "MIT"
   
-    s.author             = { "yunduoketang" => "tstan@tencent.com" }
-    s.version = "1.0.0-beta8"
+    s.author             = { "yunduoketang" => "admin@yuuxin.com" }
+    s.version = "1.0.0-beta21"
     s.platform     = :ios
     s.platform     = :ios, "9.0"
   
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   
     s.resources = "Files/YDLiveAuthMessage.plist"
 
-    s.vendored_frameworks = "Files/YDLiveSDK.framework", "Files/YDLIJKMediaFramework.framework"
+    s.vendored_frameworks = "Files/YDLiveSDK.framework"
   
     s.requires_arc = true
   

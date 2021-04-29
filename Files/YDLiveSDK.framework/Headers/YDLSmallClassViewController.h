@@ -11,9 +11,10 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-extern NSString * const YDLSmallClassViewControllerDeallocNotification;
 
 @interface YDLSmallClassViewController : YDLBaseViewController
+
+@property (nonatomic, copy) void (^exitCallback)(void);
 
 @end
 

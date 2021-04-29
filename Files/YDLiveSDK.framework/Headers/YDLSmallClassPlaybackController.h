@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, copy) NSString *recordIdentifier;
 
+@property (nonatomic, copy) void (^exitCallback)(void);
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		BobX9Siuh0/fiIueK8V8rqgfvbE=
+		Rfp6jTulZyuS/hYXT4KO/OkX5Rg=
 		</data>
 		<key>Headers/YDLBaseViewController.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/YDLBigClassPlaybackController.h</key>
 		<data>
-		EaVmawBFffAGDJa0aQ4jV2dZTh4=
+		LTKdrugCEydzWTvc7kdQrZ4h+10=
 		</data>
 		<key>Headers/YDLBigClassViewController.h</key>
 		<data>
-		9jjj3QNn93cY4QlbeV2KGSs+aTg=
+		ADhNWjGpSYe7CUJ1dpi6ZLhlb/A=
 		</data>
 		<key>Headers/YDLHud.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Headers/YDLSmallClassPlaybackController.h</key>
 		<data>
-		XWkUUjDuCyibMIKBPRUxEsT/juw=
+		tmOO2jcISHVQ+ud8ckWRDq/+DHs=
 		</data>
 		<key>Headers/YDLSmallClassViewController.h</key>
 		<data>
-		9emwzqSRarF76XvVJpEPeYUcHro=
+		gYywNxnJbKenQPcPP2UoZoMBe1g=
 		</data>
 		<key>Headers/YDLiveManager.h</key>
 		<data>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BobX9Siuh0/fiIueK8V8rqgfvbE=
+			Rfp6jTulZyuS/hYXT4KO/OkX5Rg=
 			</data>
 			<key>hash2</key>
 			<data>
-			bLq7MNk1tQScHalZr6rVvGHLKbs1PEGHZN+8VSMQtM8=
+			0mvRy+Ld0OfqwbXyW2md0kQdOn0Ih35cmy+6qnlKbwg=
 			</data>
 		</dict>
 		<key>Headers/YDLBaseViewController.h</key>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EaVmawBFffAGDJa0aQ4jV2dZTh4=
+			LTKdrugCEydzWTvc7kdQrZ4h+10=
 			</data>
 			<key>hash2</key>
 			<data>
-			p45P86ugJOREWmfx0SoRcdj62TjAeCySDoyS9Yrpm3Q=
+			98RWFNsGgc6tVj/pAiWs3FDv/cuAV+Ib/MQNTeiTud0=
 			</data>
 		</dict>
 		<key>Headers/YDLBigClassViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9jjj3QNn93cY4QlbeV2KGSs+aTg=
+			ADhNWjGpSYe7CUJ1dpi6ZLhlb/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			QJnQWELy/z/8+lYfdMWnj+RWpVbbxtjKvLJiLjakrhA=
+			38pg0O1MBAcUYNuttF5rtt8NFt0SenzcxYUoiAHV5NM=
 			</data>
 		</dict>
 		<key>Headers/YDLHud.h</key>
@@ -125,22 +125,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XWkUUjDuCyibMIKBPRUxEsT/juw=
+			tmOO2jcISHVQ+ud8ckWRDq/+DHs=
 			</data>
 			<key>hash2</key>
 			<data>
-			r4ovYL4HvBnD+2GsqiYqU1HHWbCP4Z7v6BOyz9nOBlM=
+			gBZ6F+n7lkW75gUgFpyQQALRBQDmBh++LtGcfoloP5g=
 			</data>
 		</dict>
 		<key>Headers/YDLSmallClassViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9emwzqSRarF76XvVJpEPeYUcHro=
+			gYywNxnJbKenQPcPP2UoZoMBe1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			txselbZ7N07UbtC1tjZiE9orYXqtS9Ofvu0vQGhL+Yk=
+			zpWtM3Yo++28uEbvdPf4pmExUUcMHWCy22RX8ldUxrM=
 			</data>
 		</dict>
 		<key>Headers/YDLiveManager.h</key>

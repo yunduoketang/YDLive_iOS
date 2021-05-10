@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license      = "MIT"
   
     s.author             = { "yunduoketang" => "admin@yuuxin.com" }
-    s.version = "1.1.1-beta10"
+    s.version = "1.1.1-beta11"
     s.platform     = :ios
     s.platform     = :ios, "9.0"
   
@@ -45,12 +45,12 @@ Pod::Spec.new do |s|
     s.dependency 'QCloudCOSXML/Transfer', '5.8.1'
   
     # #ali oss
-    s.dependency 'AliyunOSSiOS', '2.10.8'
+    s.dependency 'AliyunOSSiOS', '~> 2.10.9'
     # #qiNiu oss
     # # pod 'Qiniu', '8.0.0'
   
     #声网 rtc
-    s.dependency 'AgoraRtcEngine_iOS', '2.9.0.104'
+    s.dependency 'AgoraRtcEngine_iOS', '~> 2.9.0.107'
   
     #tx 快直播
     # s.dependency 'TWebRTC', :git=>'https://github.com/tencentyun/TWebRTC-IOS-SDK.git' , :tag => '2.1.11'

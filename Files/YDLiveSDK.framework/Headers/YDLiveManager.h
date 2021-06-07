@@ -21,12 +21,14 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param userType /// 1:学生 2:老师 3:助教 4:巡课
 /// @param accessKey 房间密码
 /// @param sign 用户的签名
+/// @param uniqueKey 用来标记用户的唯一标记
 /// @param complete roomType 1:1对1 2:小班课 3:大班课 4 双师
-- (void)initServiceWithRealName:(NSString * _Nonnull)realName
-                 roomIdentifier:(NSString * _Nonnull)roomIdentifier
+- (void)initServiceWithRealName:(NSString *)realName
+                 roomIdentifier:(NSString *)roomIdentifier
                        userType:(NSInteger)userType
                       accessKey:(NSString * _Nullable)accessKey
                            sign:(NSString * _Nullable)sign
+                      uniqueKey:(NSString * _Nullable)uniqueKey
                        complete:(void(^)(NSError *error,  NSInteger roomType))complete;
 
 @end

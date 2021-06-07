@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		C7eda3D5AmI6o89kZ9NiFX28Uq0=
+		3xVECw5BYFeVPs2S/BmsZnRvY54=
 		</data>
 		<key>Headers/YDLBaseViewController.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/YDLiveManager.h</key>
 		<data>
-		haJs+j+1HyrEUlO2PVMoaCGVMks=
+		+54BhOV2eyfIYjoirFN64vIa9ts=
 		</data>
 		<key>Headers/YDLiveSDK.h</key>
 		<data>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C7eda3D5AmI6o89kZ9NiFX28Uq0=
+			3xVECw5BYFeVPs2S/BmsZnRvY54=
 			</data>
 			<key>hash2</key>
 			<data>
-			72GD30Hen8LmVWijBwc5/H2AE7zABWyUimOuytTrNr4=
+			yYUbTV/LxcEDhMjWPv5MIJbBBvtLrT0waJN+rFX5rrY=
 			</data>
 		</dict>
 		<key>Headers/YDLBaseViewController.h</key>
@@ -147,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			haJs+j+1HyrEUlO2PVMoaCGVMks=
+			+54BhOV2eyfIYjoirFN64vIa9ts=
 			</data>
 			<key>hash2</key>
 			<data>
-			RHC/UFNbm7U9tj1iucIvYVt9USC8Jexq3aOed3eyYug=
+			ZKDen/JzKVdiNamzR/6gKsJ6raOmSMtQ6XpRl5eFWuU=
 			</data>
 		</dict>
 		<key>Headers/YDLiveSDK.h</key>

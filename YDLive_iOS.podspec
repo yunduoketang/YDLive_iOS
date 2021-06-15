@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license      = "MIT"
   
     s.author             = { "yunduoketang" => "admin@yuuxin.com" }
-    s.version = "1.3.0"
+    s.version = "1.3.0.1"
     s.platform     = :ios
     s.platform     = :ios, "9.0"
   
@@ -33,13 +33,13 @@ Pod::Spec.new do |s|
     s.libraries = "sqlite3", "resolv", "c++", "z", "bz2"
   
     s.dependency 'AFNetworking', '4.0.1'
-    s.dependency 'SDWebImage', '5.10.2'
+    s.dependency 'SDWebImage', '~> 5.11.1'
     s.dependency 'MBProgressHUD', '1.2.0'
     s.dependency 'Masonry', '1.1.0'
 
     s.dependency 'TEduBoard_iOS','2.5.5.22'
     s.dependency 'TXIMSDK_iOS','5.1.2'
-    s.dependency 'TXLiteAVSDK_TRTC','7.2.8980'
+    s.dependency 'TXLiteAVSDK_TRTC','~> 8.4.9944'
 
     # # tx oss
     s.dependency 'QCloudCOSXML/Transfer', '5.8.1'

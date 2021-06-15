@@ -60,5 +60,10 @@ Pod::Spec.new do |s|
     s.dependency 'RtsSDK', '1.3.0'
     s.dependency 'AliPlayerSDK_iOS', '5.2.1'
     s.dependency 'AliPlayerSDK_iOS_ARTC', '5.2.1'
+
+    #protolbuf
+    s.dependency 'Protobuf', '~> 3.17.0'
+
+    s.dependency 'PLCrashReporter', '1.8.1'
   
   end
